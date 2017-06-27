@@ -1,0 +1,86 @@
+@import url(https://fonts.googleapis.com/css?family=Cabin+Sketch|Great+Vibes);
+
+#randomQuote {
+  font-family: 'Cabin Sketch', cursive;
+}
+
+#randomQuoteAuthor {
+  font-family: 'Great Vibes', cursive;
+  bottom: 3%;
+}
+
+.appearText {
+  font-size: 200%;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 10%;
+  font-size: 500%;
+  font-family: 'Great Vibes', cursive;
+  position: relative;
+  top: 50px;
+}
+
+#scrollDiv {
+  height: 480px;
+  background-image: url("http://79.170.44.115/randomquotegen.com/scroll.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin-top: 2%;
+}
+
+#scrollDiv2 {
+  position: relative;
+  top: 25%;
+  height: 40%;
+  width: 50%;
+}
+
+#pressMe {
+  background-image: url("http://www.pixeden.com/media/k2/galleries/220/005-wood-melamine-subttle-pattern-background-pat.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height: 50px;
+  text-align: center;
+  border-radius: 50%;
+  width: 40%;
+  border: 2px solid #AB7C51;
+}
+
+a,
+a:visited {
+  color: white;
+  text-decoration: none !important;
+  font-size: 140%;
+  position: relative;
+  top: 5px;
+}
+
+a:hover {
+  color: #D6B581;
+  text-decoration: none;
+}
+
+body {
+  margin-top: 0;
+  background-image: url("http://79.170.44.115/randomquotegen.com/cork-wallet.png");
+  background-size: repeat;
+}
+
+#twitter {
+  text-align: center;
+  margin
+}
+
+#bird {
+  position: relative;
+  left: 5px;
+  height: 30px;
+}
+
+.twitter-share-button {
+  color: black !important;
+  margin-bottom: 10px;
+}
